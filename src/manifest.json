@@ -4,15 +4,15 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "my-command-identifier",
-      "script": "./my-command.js"
+      "name": "Export in Frame",
+      "identifier": "export-in-frame",
+      "script": "./export-in-frame.js"
     }
   ],
   "menu": {
-    "title": "device-framer",
+    "title": "Device Framer",
     "items": [
-      "my-command-identifier"
+      "export-in-frame"
     ]
   }
 }
